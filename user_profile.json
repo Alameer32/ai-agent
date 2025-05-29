@@ -1,0 +1,31 @@
+{
+  "name": "Salman",
+  "age": 22,
+  "location": "UTM, Malaysia",
+  "profession": "Computer Science student",
+  "interests": ["AI", "Flutter", "Firebase", "Coding Agents", "Productivity","Workeouts", "Wightlifting"],
+  "goals": [
+    "Build a personal AI assistant (SAGE)",
+    "Improve coding skills",
+    "Automate daily tasks",
+    "Get a Software Engineering internship",
+    "Find Love",
+    "Understand the meaning of life"
+  ],
+  "personality_preferences": {
+    "tone": "casual and helpful",
+    "assistant_behavior": "friendly, concise, and direct, like a texting friend"
+  },
+  "skills": {
+    "languages": ["Python", "Dart", "JavaScript"],
+    "frameworks": ["Flutter", "Firebase", "React"],
+    "tools": ["Git", "VS Code", "Figma"]
+  },
+  "daily_routine": {
+    "wake_up": "7:30 AM",
+    "study_time": "9 AM - 1 PM",
+    "project_work": "3 PM - 6 PM",
+    "exercise": "7 PM",
+    "bed_time": "11 PM"
+  }
+}
