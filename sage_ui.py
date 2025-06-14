@@ -1,6 +1,6 @@
 import customtkinter as ctk
 import threading
-from sage_backend import ask_ollama  # We'll connect this to your existing backend
+from sage_backend import ask_ollama 
 
 # Initialize customtkinter theme
 ctk.set_appearance_mode("System")  # Modes: "System" (default), "Dark", "Light"
